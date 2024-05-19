@@ -4,6 +4,9 @@ Are you the kind of person that uses Comic Sans in presentations? Do you lie awa
 
 ## Changelog
 
+### Update 2024-05
+- Added Polish character ł (lslash) and Ł (Lslash).
+
 ### Update 2023-03 (v1.3.0)
 - Added aditional characters, like ƿ and ∃.
 
